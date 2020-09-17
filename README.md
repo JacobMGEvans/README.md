@@ -3,9 +3,9 @@
 <section style="display: flex;
   justify-content: center;">
 
-<a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" style="height: 55% !important;width: 9% !important;" ></a>
-[<img src="./assets/instagram.jpg" style="height: 55% !important;width: 9% !important;">](https://www.instagram.com/jacobmgevans)
-[<img src="./assets/linkedin.png" style="height: 55% !important;width: 9% !important;">](https://www.linkedin.com/in/jacob-m-g-evans/)
+<a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" style="height: 3vh !important;width: 5vw !important;!important;" ></a>
+[<img src="./assets/instagram.jpg" style="height: 3vh !important;width: 5vw !important;">](https://www.instagram.com/jacobmgevans)
+[<img src="./assets/linkedin.png" style="height: 3vh !important;width: 5vw !important;">](https://www.linkedin.com/in/jacob-m-g-evans/)
 [![Twitter](https://img.shields.io/twitter/follow/JacobMGEvans?style=social)](https://twitter.com/JacobMGEvans)
 
 </section>
