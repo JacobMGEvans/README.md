@@ -5,10 +5,10 @@
 <a href="https://www.instagram.com/jacobmgevans"><img alt="Instagram Icon" src="./assets/instagram.jpg" height="30">
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/jacob-m-g-evans/"><img alt="Linkedin Icon" src="./assets/linkedin.png" height="30">
+</a>&nbsp;
+<a href="https://twitter.com/JacobMGEvans">
+<img src="https://img.shields.io/twitter/follow/JacobMGEvans?style=social" />
 </a>
-
-[![Twitter](https://img.shields.io/twitter/follow/JacobMGEvans?style=social)](https://twitter.com/JacobMGEvans)
-
 </p>
 
 <p align="center">
