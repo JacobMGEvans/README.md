@@ -3,10 +3,10 @@
 <section style="display: flex;
   justify-content: center;">
 
-<a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 25px !important;" ></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/jacobmgevans"><img alt="Instagram Icon" src="./assets/instagram.jpg" style="height: 25px !important;width: 25px !important;">
+<a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" height="30" ></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/jacobmgevans"><img alt="Instagram Icon" src="./assets/instagram.jpg" height="30">
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/jacob-m-g-evans/"><img alt="Linkedin Icon" src="./assets/linkedin.png" style="height: 25px !important;width: 25px !important;">
+<a href="https://www.linkedin.com/in/jacob-m-g-evans/"><img alt="Linkedin Icon" src="./assets/linkedin.png" height="30">
 </a>&nbsp;
 [![Twitter](https://img.shields.io/twitter/follow/JacobMGEvans?style=social)](https://twitter.com/JacobMGEvans)
 
