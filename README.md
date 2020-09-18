@@ -1,19 +1,21 @@
-[<img src="https://pbs.twimg.com/card_img/1304401467663626241/U_af5EkO?format=jpg&name=small">](https://dev.to/jacobmgevans)
+<a href="https://dev.to/jacobmgevans"><img src="https://pbs.twimg.com/card_img/1304401467663626241/U_af5EkO?format=jpg&name=small" alt="dev.to profile and link"></a>
 
 <section style="display: flex;
   justify-content: center;">
 
 <a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 25px !important;" ></a>
-[<img src="./assets/instagram.jpg" style="height: 25px !important;width: 25px !important;">](https://www.instagram.com/jacobmgevans)
-[<img src="./assets/linkedin.png" style="height: 25px !important;width: 25px !important;">](https://www.linkedin.com/in/jacob-m-g-evans/)
+<a href="https://www.instagram.com/jacobmgevans"><img alt="Instagram Icon" src="./assets/instagram.jpg" style="height: 25px !important;width: 25px !important;">
+</a>
+<a href="https://www.linkedin.com/in/jacob-m-g-evans/"><img alt="Linkedin Icon" src="./assets/linkedin.png" style="height: 25px !important;width: 25px !important;">
 [![Twitter](https://img.shields.io/twitter/follow/JacobMGEvans?style=social)](https://twitter.com/JacobMGEvans)
 
 </section>
 
 <span style="font-size: 15px">FullStack JavaScript Developer | Air Force Veteran | Hardware Enthusiast | Outdoorsman | Facebook CRA Contributor </span>
-<br/>
 
-<h3>🚧🚧 Digital Garden & OSS🌱 🚧🚧</h3>
+---
+
+<h3> OSS & Community 🛰️</h3>
 <article>
 Placeholder:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae nunc eleifend, sodales lorem ut,
