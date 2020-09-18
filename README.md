@@ -37,9 +37,11 @@ Placeholder:
 
 ---
 
-<h3>🧰 Tools & Technologies</h3>
+<h3>🧰 Tools & 💻 Technologies</h3>
 
-- List of Tools
-<!-- (get gifs, interactive visuals) -->
+ List of Tools (get gifs, interactive visuals) 
 
-<!-- [![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JacobMGEvans)](https://github.com/JacobMGEvans/github-readme-stats) -->
+
+<br />
+
+[![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JacobMGEvans)](https://github.com/JacobMGEvans/github-readme-stats)
