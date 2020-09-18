@@ -3,9 +3,9 @@
 <section style="display: flex;
   justify-content: center;">
 
-<a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" style="height: 3vh !important;width: 5vw !important;!important;" ></a>
-[<img src="./assets/instagram.jpg" style="height: 3vh !important;width: 5vw !important;">](https://www.instagram.com/jacobmgevans)
-[<img src="./assets/linkedin.png" style="height: 3vh !important;width: 5vw !important;">](https://www.linkedin.com/in/jacob-m-g-evans/)
+<a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 25px !important;" ></a>
+[<img src="./assets/instagram.jpg" style="height: 25px !important;width: 25px !important;">](https://www.instagram.com/jacobmgevans)
+[<img src="./assets/linkedin.png" style="height: 25px !important;width: 25px !important;">](https://www.linkedin.com/in/jacob-m-g-evans/)
 [![Twitter](https://img.shields.io/twitter/follow/JacobMGEvans?style=social)](https://twitter.com/JacobMGEvans)
 
 </section>
@@ -17,7 +17,7 @@
 <article>
 Placeholder:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae nunc eleifend, sodales lorem ut,
-<a href="https://dev.to/jacobmgevans"><img src="./assets/hacktoberfest.png" style="height: 10vh !important;width: 30vw !important;"/></a> fermentum turpis. Maecenas et augue eu leo interdum suscipit. Donec feugiat ut odio vitae scelerisque. Vivamus a dolor lacus. Mauris vel massa facilisis, sagittis ante sed, aliquet est.
+<a href="https://dev.to/jacobmgevans"><img src="./assets/hacktoberfest.png" style="height: 50px !important;"/></a> fermentum turpis. Maecenas et augue eu leo interdum suscipit. Donec feugiat ut odio vitae scelerisque. Vivamus a dolor lacus. Mauris vel massa facilisis, sagittis ante sed, aliquet est.
 </article>
 
 <details>
