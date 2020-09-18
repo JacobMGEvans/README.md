@@ -11,9 +11,10 @@
 </a>
 </p>
 
-<p align="center">
-<div style="font-size: 15px">FullStack JavaScript Developer | Air Force Veteran | Hardware Enthusiast | Outdoorsman | Facebook CRA Contributor </div>
-</p>
+Greetings! 
+
+A little about myself, I create blog posts, volunteer in tech communities (VetsWhoCode, KCD, Testing Library, etc...) and work in open source. 🚧TBD...🏗️
+
 
 ---
 
