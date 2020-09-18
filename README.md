@@ -19,14 +19,19 @@
 <h3> OSS & Community 🛰️</h3>
 <article>
 Placeholder:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae nunc eleifend, sodales lorem ut,
-<a href="https://dev.to/jacobmgevans"><img src="./assets/hacktoberfest.png" style="height: 50px !important;"/></a> fermentum turpis. Maecenas et augue eu leo interdum suscipit. Donec feugiat ut odio vitae scelerisque. Vivamus a dolor lacus. Mauris vel massa facilisis, sagittis ante sed, aliquet est.
+
+<a href="https://dev.to/jacobmgevans"><img src="./assets/hacktoberfest.png" style="height: 50px !important;"/></a> 
 </article>
 
+**Part of my OSS work and learning in public** efforts involve writing technical and technical adjacent, like learning, Blogs for others to benefit from, however, most of all I benefit from them as well. 
 <details>
-<summary>Placeholder List of Blog Articles</summary>
+<summary>List of Blog Articles </summary>
 <br>
-This is how you dropdown.
+
+ * [JavaScript Resources Podcasts, Books, Videos, and Tutorials](https://dev.to/jacobmgevans/javascript-resources-podcasts-books-videos-and-tutorials-4a6e)
+ * [More Podcasts and Video Resources](https://dev.to/jacobmgevans/more-podcasts-and-video-programming-resources-5a8k)
+ * [Should you listen to Podcasts?](https://dev.to/jacobmgevans/should-you-listen-to-podcasts-4m5j)
+ * [Writing Immutable and Functional JavaScript](https://dev.to/jacobmgevans/writing-immutable-javascript-why-how-3if6)
 </details>
 
 ---
