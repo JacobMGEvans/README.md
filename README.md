@@ -26,7 +26,7 @@ Placeholder:
 
 **Part of my OSS work and learning in public** efforts involve writing technical and technical adjacent, like learning, Blogs for others to benefit from, however, most of all I benefit from them as well. 
 <details>
-<summary>List of Blog Articles </summary>
+<summary>A Few Cherrypicked Blog Articles 🗃️ </summary>
 <br>
 
  * [JavaScript Resources Podcasts, Books, Videos, and Tutorials](https://dev.to/jacobmgevans/javascript-resources-podcasts-books-videos-and-tutorials-4a6e)
