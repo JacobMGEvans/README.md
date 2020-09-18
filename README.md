@@ -20,7 +20,7 @@
 <article>
 Placeholder:
 
-<a href="https://dev.to/jacobmgevans"><img src="./assets/hacktoberfest.png" style="height: 50px !important;"/></a> 
+<a href="https://dev.to/jacobmgevans"><img src="./assets/hacktoberfest.png" height="60"/></a> 
 </article>
 
 **Part of my OSS work and learning in public** efforts involve writing technical and technical adjacent, like learning, Blogs for others to benefit from, however, most of all I benefit from them as well. 
