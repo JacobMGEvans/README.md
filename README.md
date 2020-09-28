@@ -1,6 +1,6 @@
-<!-- <a href="https://dev.to/jacobmgevans"> </a>-->
+<a href="https://dev.to/jacobmgevans">
  <img src="https://pbs.twimg.com/card_img/1304401467663626241/U_af5EkO?format=jpg&name=small" alt="dev.to profile and link">
-
+</a>
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" height="30" ></a>&nbsp;&nbsp;
