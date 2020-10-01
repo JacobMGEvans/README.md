@@ -1,4 +1,7 @@
- ![Devto Profile](https://dev.to/jacobmgevans)
+https://dev.to/jacobmgevans | Cert Here
+------------ | -------------
+Content from cell 1 | Content from cell 2
+ 
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" height="30" ></a>&nbsp;&nbsp;
