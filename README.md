@@ -1,5 +1,5 @@
 <a href="https://dev.to/jacobmgevans">
- <img src="https://pbs.twimg.com/card_img/1304401467663626241/U_af5EkO?format=jpg&name=small" alt="dev.to profile and link">
+ <img src="https://dev.to/jacobmgevans" alt="dev.to profile and link">
 </a>
 
 <p align="center">
