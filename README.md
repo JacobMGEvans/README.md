@@ -1,6 +1,6 @@
-https://dev.to/jacobmgevans | Cert Here
+<meta property="og:url" content="https://dev.to/jacobmgevans" /> | Cert Here
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+
  
 
 <p align="center">
