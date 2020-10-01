@@ -1,5 +1,5 @@
 <a href="https://dev.to/jacobmgevans">
- <img src="https://dev.to/jacobmgevans" alt="dev.to profile and link">
+ ![https://dev.to/jacobmgevans](https://dev.to/jacobmgevans)
 </a>
 
 <p align="center">
