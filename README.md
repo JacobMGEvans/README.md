@@ -1,6 +1,4 @@
-<a href="https://dev.to/jacobmgevans">
- ![https://dev.to/jacobmgevans](https://dev.to/jacobmgevans)
-</a>
+ ![Devto Profile](https://dev.to/jacobmgevans)
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" height="30" ></a>&nbsp;&nbsp;
