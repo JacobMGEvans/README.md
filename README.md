@@ -1,11 +1,5 @@
 <meta property="og:url" content="https://dev.to/jacobmgevans" />
 
- <object data="https://github.com/JacobMGEvans/JacobMGEvans/blob/master/assets/Jacob%20Evans-epic-react-certificate.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/JacobMGEvans/JacobMGEvans/blob/master/assets/Jacob%20Evans-epic-react-certificate.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/JacobMGEvans/JacobMGEvans/blob/master/assets/Jacob%20Evans-epic-react-certificate.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
 <p align="center">
 <a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" height="30" ></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/jacobmgevans"><img alt="Instagram Icon" src="./assets/instagram.jpg" height="30">
