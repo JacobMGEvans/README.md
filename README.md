@@ -1,6 +1,6 @@
 <meta property="og:url" content="https://dev.to/jacobmgevans" />
 
-<iframe type="application/pdf" src="https://github.com/JacobMGEvans/JacobMGEvans/blob/master/assets/Jacob%20Evans-epic-react-certificate.pdf"></iframe>
+<embed src="https://github.com/JacobMGEvans/JacobMGEvans/blob/master/assets/Jacob%20Evans-epic-react-certificate.pdf"></embed>
  
 
 <p align="center">
