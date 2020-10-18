@@ -1,5 +1,9 @@
 <meta property="og:url" content="https://dev.to/jacobmgevans" />
 
+
+![some discription](./assets/Jacob Evans-epic-react-certificate.pdf)
+
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" height="30" ></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/jacobmgevans"><img alt="Instagram Icon" src="./assets/instagram.jpg" height="30">
