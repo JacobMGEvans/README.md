@@ -41,14 +41,6 @@ Placeholder:
 
 <h3>🧰 Tools & 💻 Technologies</h3>
 
-<style>
-    div {
-    display: flex;
-    justify-content: space-evenly;
-    }
-</style>
-
-
 <div>
  <img src='https://image.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg' alt='Technology vector created by vectorjuice - www.freepik.com'  width="80"/>
  <img src='https://i.morioh.com/644d5dcb49.png'  width="66"/>
