@@ -1,9 +1,6 @@
 <meta property="og:url" content="https://dev.to/jacobmgevans" />
 
 
-![some discription](./assets/Jacob Evans-epic-react-certificate.pdf)
-
-
 <p align="center">
 <a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" height="30" ></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/jacobmgevans"><img alt="Instagram Icon" src="./assets/instagram.jpg" height="30">
@@ -17,7 +14,7 @@
 
 Greetings! 
 
-A little about myself, I create blog posts, volunteer in tech communities (VetsWhoCode, KCD, Testing Library, etc...) and work in open source. 🚧TBD...🏗️
+A little about myself, I create blog posts, volunteer in tech communities (VetsWhoCode, KCD, Testing Library, etc...) and work in open source. 🚧WIP...🏗️
 
 
 ---
@@ -29,7 +26,7 @@ Placeholder:
 <a href="https://dev.to/jacobmgevans"><img src="./assets/hacktoberfest.png" height="60"/></a> 
 </article>
 
-**Part of my OSS work and learning in public** efforts involve writing technical and technical adjacent, like learning, Blogs for others to benefit from, however, most of all I benefit from them as well. 
+**Part of my OSS work and learning in public** efforts involve writing technical and technical adjacent, like learning, Blogs for others to benefit from, including myself
 <details>
 <summary>A Few Cherrypicked Blog Articles 🗃️ </summary>
 <br>
