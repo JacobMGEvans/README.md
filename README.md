@@ -7,7 +7,7 @@
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/jacob-m-g-evans/"><img alt="Linkedin Icon" src="./assets/linkedin.png" height="30">
 </a>&nbsp;
-<a href="https://twitter.com/JacobMGEvans">
+<a href="https://twitter.com/JacobMGEvans?ref_src=twsrc%5Etfw" class="twitter-follow-button">
 <img src="https://img.shields.io/twitter/follow/JacobMGEvans?style=social" />
 </a>
 </p>
@@ -26,7 +26,7 @@ A little about myself, I create blog posts, volunteer in tech communities (VetsW
 **Part of my OSS work and learning in public** efforts involve writing technical and technical adjacent, Blogs for people to benefit from, including myself.
 <details open>
 <summary>A Few Cherrypicked Blog Articles 🗃️ </summary>
-<br>
+<br />
 
  * [JavaScript Resources Podcasts, Books, Videos, and Tutorials](https://dev.to/jacobmgevans/javascript-resources-podcasts-books-videos-and-tutorials-4a6e)
  * [More Podcasts and Video Resources](https://dev.to/jacobmgevans/more-podcasts-and-video-programming-resources-5a8k)
