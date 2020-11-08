@@ -14,15 +14,13 @@
 
 Greetings! 
 
-A little about myself, I create blog posts, volunteer in tech communities (VetsWhoCode, KCD, Testing Library, etc...) and work in open source. 🚧WIP...🏗️
+A little about myself, I create blog posts, volunteer in tech communities (VetsWhoCode, KCD, Testing Library, etc...) and contribute to open source software. 🚧WIP...🏗️
 
 
 ---
 
 <h3> OSS & Community 🛰️</h3>
 <article>
-Placeholder:
-
 <a href="https://dev.to/jacobmgevans"><img src="./assets/hacktoberfest.png" height="60"/></a> 
 </article>
 
