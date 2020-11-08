@@ -25,7 +25,7 @@ A little about myself, I create blog posts, volunteer in tech communities (VetsW
 </article>
 
 **Part of my OSS work and learning in public** efforts involve writing technical and technical adjacent, like learning, Blogs for others to benefit from, including myself
-<details>
+<details open>
 <summary>A Few Cherrypicked Blog Articles 🗃️ </summary>
 <br>
 
