@@ -14,8 +14,7 @@
 
 Greetings! 
 
-A little about myself, I create blog posts, volunteer in tech communities (VetsWhoCode, KCD, Testing Library, etc...) and contribute to open source software. 🚧WIP...🏗️
-
+A little about myself, I create blog posts, volunteer in tech communities (VetsWhoCode, KCD, Testing Library, etc...) and contribute to open source software. All part of my continous learning and improvement. 
 
 ---
 
@@ -24,7 +23,7 @@ A little about myself, I create blog posts, volunteer in tech communities (VetsW
 <a href="https://dev.to/jacobmgevans"><img src="./assets/hacktoberfest.png" height="60"/></a> 
 </article>
 
-**Part of my OSS work and learning in public** efforts involve writing technical and technical adjacent, like learning, Blogs for others to benefit from, including myself
+**Part of my OSS work and learning in public** efforts involve writing technical and technical adjacent, Blogs for people to benefit from, including myself.
 <details open>
 <summary>A Few Cherrypicked Blog Articles 🗃️ </summary>
 <br>
