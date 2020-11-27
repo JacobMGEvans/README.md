@@ -1,6 +1,5 @@
 <meta property="og:url" content="https://dev.to/jacobmgevans" />
 
-
 <p align="center">
 <a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" height="30" ></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/jacobmgevans"><img alt="Instagram Icon" src="./assets/instagram.jpg" height="30">
@@ -12,9 +11,9 @@
 </a>
 </p>
 
-Greetings! 
+Greetings!
 
-A little about myself, I create blog posts, volunteer in tech communities (VetsWhoCode, KCD, Testing Library, etc...) and contribute to open source software. All part of my continous learning and improvement. 
+A little about myself, I create blog posts, volunteer in tech communities (VetsWhoCode, KCD, Testing Library, etc...) and contribute to open source software. All part of my continous learning and improvement.
 
 ---
 
@@ -24,14 +23,15 @@ A little about myself, I create blog posts, volunteer in tech communities (VetsW
 </article>
 
 **Part of my OSS work and learning in public** efforts involve writing technical and technical adjacent, Blogs for people to benefit from, including myself.
+
 <details open>
 <summary>A Few Cherrypicked Blog Articles 🗃️ </summary>
 <br />
 
- * [JavaScript Resources Podcasts, Books, Videos, and Tutorials](https://dev.to/jacobmgevans/javascript-resources-podcasts-books-videos-and-tutorials-4a6e)
- * [More Podcasts and Video Resources](https://dev.to/jacobmgevans/more-podcasts-and-video-programming-resources-5a8k)
- * [Should you listen to Podcasts?](https://dev.to/jacobmgevans/should-you-listen-to-podcasts-4m5j)
- * [Writing Immutable and Functional JavaScript](https://dev.to/jacobmgevans/writing-immutable-javascript-why-how-3if6)
+- [JavaScript Resources Podcasts, Books, Videos, and Tutorials](https://dev.to/jacobmgevans/javascript-resources-podcasts-books-videos-and-tutorials-4a6e)
+- [More Podcasts and Video Resources](https://dev.to/jacobmgevans/more-podcasts-and-video-programming-resources-5a8k)
+- [Should you listen to Podcasts?](https://dev.to/jacobmgevans/should-you-listen-to-podcasts-4m5j)
+- [Writing Immutable and Functional JavaScript](https://dev.to/jacobmgevans/writing-immutable-javascript-why-how-3if6)
 </details>
 
 ---
@@ -39,7 +39,8 @@ A little about myself, I create blog posts, volunteer in tech communities (VetsW
 <h3>Tools & Technologies</h3>
 
 <div id="images">
-<img src='https://image.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg' alt='JavaScript --- Technology vector created by vectorjuice - www.freepik.com'  width="80"/>
+<img src="https://miro.medium.com/max/4200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" alt="https://miro.medium.com/max/4200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width="80">
+<!-- <img src='https://image.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg' alt='JavaScript --- Technology vector created by vectorjuice - www.freepik.com'  width="80"/> -->
 
 <img src='https://i.morioh.com/644d5dcb49.png'  width="66"/>
 
