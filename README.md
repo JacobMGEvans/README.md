@@ -39,7 +39,7 @@ A little about myself, I create blog posts, volunteer in tech communities (VetsW
 <h3>Tools & Technologies</h3>
 
 <div id="images">
-<img src="https://miro.medium.com/max/4200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" alt="https://miro.medium.com/max/4200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width="80">
+<img src="https://miro.medium.com/max/4200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" alt="https://miro.medium.com/max/4200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width="90">
 <!-- <img src='https://image.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg' alt='JavaScript --- Technology vector created by vectorjuice - www.freepik.com'  width="80"/> -->
 
 <img src='https://i.morioh.com/644d5dcb49.png'  width="66"/>
