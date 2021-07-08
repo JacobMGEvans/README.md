@@ -1,7 +1,7 @@
 <meta property="og:url" content="https://dev.to/jacobmgevans" />
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" height="30" ></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="https://symbols-electrical.getvecta.com/stencil_75/160_buymeacoffee-icon.92dba8daf2.png" alt="Buy Me A Coffee" height="30" ></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/jacobmgevans"><img alt="Instagram Icon" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="30">
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/jacob-m-g-evans/"><img alt="Linkedin Icon" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" height="30">
