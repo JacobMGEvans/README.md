@@ -13,7 +13,7 @@
 
 Greetings!
 
-A little about myself, I create blog posts, volunteer in tech communities (VetsWhoCode, KCD, Testing Library, etc...) and contribute to open source software. All part of my continous learning and improvement.
+A little about myself, I create blog posts, volunteer in tech communities (KCD, <a href="https://discord.gg/urQuPURusm">OSRG</a>, VetsWhoCode,  Testing Library, etc...) and contribute to open source software. All part of my continous learning and improvement.
 
 ---
 
