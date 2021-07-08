@@ -4,7 +4,7 @@
 <a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" height="30" ></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/jacobmgevans"><img alt="Instagram Icon" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="30">
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/jacob-m-g-evans/"><img alt="Linkedin Icon" src="./assets/linkedin.png" height="30">
+<a href="https://www.linkedin.com/in/jacob-m-g-evans/"><img alt="Linkedin Icon" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" height="30">
 </a>&nbsp;
 <a href="https://twitter.com/JacobMGEvans?ref_src=twsrc%5Etfw" class="twitter-follow-button">
 <img src="https://img.shields.io/twitter/follow/JacobMGEvans?style=social" />
