@@ -43,8 +43,8 @@ A little about myself, I create blog posts, volunteer in tech communities (KCD, 
 <img src="https://miro.medium.com/max/4200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" alt="https://miro.medium.com/max/4200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width="120">
 <!-- <img src='https://image.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg' alt='JavaScript --- Technology vector created by vectorjuice - www.freepik.com'  width="80"/> -->
 
-<img src='https://i.morioh.com/644d5dcb49.png'  width="66"/>
-
+<img src='https://www.pinclipart.com/picdir/big/92-928488_typescript-logo-clipart.png' alt="typescript logo" width="66"/>
+ 
 <img src='https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/231/full/EGH_Apollo-GraphQL-React_Final.png' alt="egghead.io React, Apollo, GraphQL logo"  width="60" />
 
 <img src='https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-svg-vector.svg' alt="Netlify Logo"  width="90" height="60"/>
