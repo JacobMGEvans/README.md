@@ -20,7 +20,7 @@ A little about myself, I create blog posts, volunteer in tech communities (VetsW
 <h3> OSS & Community 🛰️</h3>
 <article>
 <a href="https://dev.to/jacobmgevans"><img src="./assets/hacktoberfest.png" height="60"/></a> 
-<a href="https://dev.to/jacobmgevans"><img src="https://images.prismic.io/www-static/10edf3c3-a784-40e4-a038-c93626f433be_Blog+image.jpg?auto=compress,format" height="60"/></a>
+<a href="https://dev.to/jacobmgevans"><img src="https://images.prismic.io/www-static/10edf3c3-a784-40e4-a038-c93626f433be_Blog+image.jpg" height="60"/></a>
 </article>
 
 **Part of my OSS work and learning in public** efforts involve writing technical and technical adjacent, Blogs for people to benefit from, including myself.
