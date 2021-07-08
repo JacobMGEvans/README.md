@@ -47,7 +47,7 @@ A little about myself, I create blog posts, volunteer in tech communities (KCD, 
 
 <img src='https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/231/full/EGH_Apollo-GraphQL-React_Final.png' alt="egghead.io React, Apollo, GraphQL logo"  width="60" />
 
-<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--NLOEPMhX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/1200/1%2A8qTd4OfWvxDv5iPWQnzr9Q.png' alt="Gatsby & Netlify Logo"  width="189"/>
+<img src='https://css-tricks.com/wp-content/uploads/2018/05/gatsby-netlify.jpg' alt="Gatsby & Netlify Logo"  width="189"/>
 
 <img src='https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png' alt="Nodejs Logo"  width="140" />
 
