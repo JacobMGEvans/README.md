@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/JacobMGEvans" target="_blank"><img src="./assets/by-me-a-coffee.png" alt="Buy Me A Coffee" height="30" ></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/jacobmgevans"><img alt="Instagram Icon" src="./assets/instagram.jpg" height="30">
+<a href="https://www.instagram.com/jacobmgevans"><img alt="Instagram Icon" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="30">
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/jacob-m-g-evans/"><img alt="Linkedin Icon" src="./assets/linkedin.png" height="30">
 </a>&nbsp;
