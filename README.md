@@ -40,7 +40,7 @@ A little about myself, I create blog posts, volunteer in tech communities (KCD, 
 <h3>Tools & Technologies</h3>
 
 <div id="images">
-<script> console.log("TEST") </script>
+<script />
 <img src="https://miro.medium.com/max/4200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" alt="https://miro.medium.com/max/4200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width="120">
 <!-- <img src='https://image.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg' alt='JavaScript --- Technology vector created by vectorjuice - www.freepik.com'  width="80"/> -->
 
