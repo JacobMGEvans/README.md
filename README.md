@@ -20,7 +20,7 @@ A little about myself, I create blog posts, volunteer in tech communities (KCD, 
 <h3> OSS & Community 🛰️</h3>
 <article>
 <a href="https://dev.to/jacobmgevans"><img src="./assets/hacktoberfest.png" height="60"/></a> 
-<a href="https://dev.to/jacobmgevans"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lojm4XAD--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/9g2loqfoe84qeh8qqpa4.png" height="60" radius="30% 70% 70% 30% / 30% 31% 69% 70%"/></a>
+<a href="https://dev.to/jacobmgevans"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lojm4XAD--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/9g2loqfoe84qeh8qqpa4.png" height="60"/></a>
 </article>
 
 **Part of my OSS work and learning in public** efforts involve writing technical and technical adjacent, Blogs for people to benefit from, including myself.
@@ -47,7 +47,7 @@ A little about myself, I create blog posts, volunteer in tech communities (KCD, 
 
 <img src='https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/231/full/EGH_Apollo-GraphQL-React_Final.png' alt="egghead.io React, Apollo, GraphQL logo"  width="60" />
 
-<img src='https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-svg-vector.svg' alt="Netlify Logo"  width="150"/>
+<img src='https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-svg-vector.svg' alt="Netlify Logo"  width="150" height="60"/>
 
 <img src='https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png' alt="Nodejs Logo"  width="140" />
 
